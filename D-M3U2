@@ -1,0 +1,74 @@
+#EXTINF:-1 ,match onlly
+http://195.154.114.22/hls/103.m3u8
+#EXTINF:-1 ,Bein Sport 1
+http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 ,Bein Sport 2
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
+#EXTINF:-1 ,Bein Sport 4
+http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
+#EXTINF:-1 ,Bein Sport 5
+http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
+#EXTINF:-1 ,Bein Sport 6
+http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX ACTION
+http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
+#EXTINF:-1 group-title="MOVIES",FOX FAMILY
+http://idxcode.streamid.tv:25251/live/stream/ID/45.ts
+#EXTINF:-1 group-title="MOVIES",FOX MOVIES
+http://idxcode.streamid.tv:25251/live/stream/ID/47.ts
+#EXTINF:-1 group-title="SPORTS",FOX SPORT
+http://idxcode.streamid.tv:25251/live/stream/ID/48.ts
+#EXTINF:-1 group-title="SPORTS",FOX SPORT 2
+http://idxcode.streamid.tv:25251/live/stream/ID/49.ts
+#EXTINF:-1 group-title="SPORTS",FOX SPORT 3
+http://idxcode.streamid.tv:25251/live/stream/ID/50.ts
+#EXTINF:-1 group-title="MOVIES",HBO
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
+#EXTINF:-1 group-title="MOVIES",HBO HITS
+http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
+#EXTINF:-1 ,beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 ,beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 ,beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 ,beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 ,beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 ,beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1,[Lebanon]:|AR| OTV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2553.m3u8
+#EXTINF:-1,[Lebanon]:|AR| MTV Lebanon
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2554.m3u8
+#EXTINF:-1,[Lebanon]:|AR| LBC SAT
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2555.m3u8
+#EXTINF:-1,[Lebanon]:|AR| LBC International
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2556.m3u8
+#EXTINF:-1,[Lebanon]:|AR| Future TV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2558.m3u8
+#EXTINF:-1,[Lebanon]:|AR| ETIHAD TV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2559.m3u8
+#EXTINF:-1,[Lebanon]:|AR| CBC Sofra
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2560.m3u8
+#EXTINF:-1,[Lebanon]:|AR| CBC Drama
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2561.m3u8
+#EXTINF:-1,[Lebanon]:|AR| CBC
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2562.m3u8
+#EXTINF:-1,[Lebanon]:|AR| ASIA TV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2563.m3u8
+#EXTINF:-1,[Lebanon]:|AR| AR_Teleliban.TV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2564.m3u8
+#EXTINF:-1,[Lebanon]:|AR| AR | AL MANAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2565.m3u8
+#EXTINF:-1,[Lebanon]:|AR| ALAAN TV
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2566.m3u8
+#EXTINF:-1,[Lebanon]:|AR| AL JADEED
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2568.m3u8
+#EXTINF:-1,[Kids]:|AR| Disney JuniorHD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2581.m3u8
+#EXTINF:-1,[Kids]:|AR| Cartoon Network Arabic
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/arabic/3AFfe8Lpvf/2582.m3u8
+
+
