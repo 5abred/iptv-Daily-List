@@ -1,22 +1,38 @@
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24980.m3u8 #Name: |AR| BEIN SPORTS GLOBAL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13611.m3u8 #Name: |AR| BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13688.m3u8 #Name: |AR| BEIN SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13595.m3u8 #Name: |AR| BEIN SPORTS 1 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13610.m3u8 #Name: |AR| BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13686.m3u8 #Name: |AR| BEIN SPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13687.m3u8 #Name: |AR| BEIN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13609.m3u8 #Name: |AR| BEIN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13683.m3u8 #Name: |AR| BEIN SPORTS 3 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13608.m3u8 #Name: |AR| BEIN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13682.m3u8 #Name: |AR| BEIN SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13681.m3u8 #Name: |AR| BEIN SPORTS 4 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13607.m3u8 #Name: |AR| BEIN SPORTS 5 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13680.m3u8 #Name: |AR| BEIN SPORTS 5 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13679.m3u8 #Name: |AR| BEIN SPORTS 5 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13677.m3u8 #Name: |AR| BEIN SPORTS 6 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13605.m3u8 #Name: |AR| BEIN SPORTS 7 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13676.m3u8 #Name: |AR| BEIN SPORTS 7 HD
-
+#EXTM3U
+#EXTINF:-1,|AR| BEIN SPORTS GLOBAL HD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24980.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13611.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13595.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13610.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13686.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13687.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13609.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13683.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13608.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13682.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13681.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13607.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13680.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13679.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 BKP
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13677.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13605.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13676.m3u8
 #EXTM3U
 #EXTINF:-1,|OSN| Ya Hala Oula HD
 http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47368.m3u8
